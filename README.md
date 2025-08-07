@@ -1,1 +1,2 @@
-# This repo contains all the mixed ideas or the views on those machine learning classes and AI courses that I have ever learned.
+### This repo contains all the mixed ideas or the views on those machine learning classes and AI courses that I have ever learned.
+---
