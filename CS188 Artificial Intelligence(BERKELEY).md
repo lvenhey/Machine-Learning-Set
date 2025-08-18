@@ -14,10 +14,11 @@
 
   1. Greedy Search : Expand the nodes that seems closest(by heuristic function)
 
-Q:In Greedy Search, there is a problem that why don't we use the actual cost in heuristic function?
+  Q:In Greedy Search, there is a problem that why don't we use the actual cost in heuristic function?
 
-A:Cause if you use actual cost, you can find the optimal solution, but we now are trying to find the optimal plan using the Greedy Search instead of  directly using the optimal plan.
+  A:Cause if you use actual cost, you can find the optimal solution, but we now are trying to find the optimal plan using the Greedy Search instead of  directly using the optimal plan.
 
-To remember GS may not find the best solution.
-So you can sense the difference betweeen UCS and GS.
+  To remember GS may not find the best solution.
+  So you can sense the difference betweeen UCS and GS.
+
   2. 
