@@ -17,4 +17,5 @@ A:Cause if you use actual cost, you can find the optimal solution, but we now ar
 
     To remember GS may not find the best solution.  
     So you can sense the difference betweeen UCS and GS.
+    
 2. 
